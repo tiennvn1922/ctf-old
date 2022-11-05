@@ -1,0 +1,12 @@
+Challenge
+181 Solves
+Treasure Hunt
+50
+easy
+Well the world has been looking for this treasure for the last 25 years. Maybe you will have a better chance at finding it?
+
+Author: Crem#2193
+
+https://web-treasure-hunt-e9a4730c2093.2022.ductf.dev
+
+flag: DUCTF{7h3-0n3-p13c3-15-4ll-7h3-fl465-y0u-637-4l0n6-7h3-w4y}

@@ -1,0 +1,20 @@
+Challenge
+827 Solves
+Honk Honk
+50
+easy
+I'm shocking when it comes to remembering when my car's CTP is up...can you let me know the exact date (DD/MM/YYYY) when it's due? My rego is 23HONK.
+
+Flag format: DUCTF{DD/MM/YYYY}
+Flag example: DUCTF{04/05/2022}
+
+Note: Solving this challenge unlocks another OSINT challenge.
+
+Author: NoSurf#3704
+
+https://free-rego-check.service.nsw.gov.au/vehicledetail/23HONK/O
+23HONK
+NISSAN MARCH 3 DOOR TURBO SEDAN - WHITE - 1992
+VIN/Chassis: ****9891
+Registration expires: 19 July 2023
+-> flag: DUCTF{19/07/2023}

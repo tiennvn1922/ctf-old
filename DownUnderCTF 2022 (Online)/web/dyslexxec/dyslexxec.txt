@@ -1,0 +1,8 @@
+dyslexxec
+426
+easy
+Testing out the openpyxl library for python but there's some functionality I wish it had.
+
+Author: JZT
+
+https://web-dyslexxec-773a3cb4c483.2022.ductf.dev

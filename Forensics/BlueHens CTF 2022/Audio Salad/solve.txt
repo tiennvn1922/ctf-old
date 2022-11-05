@@ -1,0 +1,13 @@
+My friend sent me this message via audio, but I dropped my salad on my computer before I could listen to it. Help!!!
+
+Author: FrostArtillery
+
+Attachments: audiosalad.wav
+
+49 52 51 48 54 7b 31 33 6f 74 5f 61 33 5f 6f 31 30 62 33 5f 70 66 30 5f 46 35 55 6b 68 4e 7d
+
+Dùng CyberChef From Hex
+-> IRQHT{13ot_a3_o10b3_pf0_F5UkhN}
+Dùng ROT12
+-> UDCTF{35af_m5_a32n5_br2_R7GwtZ}
+-> không hay

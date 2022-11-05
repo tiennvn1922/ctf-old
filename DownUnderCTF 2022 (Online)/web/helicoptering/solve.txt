@@ -1,0 +1,18 @@
+Challenge
+629 Solves
+helicoptering
+50
+beginner
+Is that an Apache I overheard?
+
+Author: hashkitten
+
+http://34.87.217.252:30026/
+
+Thay host thành localhost
+-> part 1: DUCTF{thats_it_
+không được gửi có từ flag
+-> url encode flag.txt
+-> GET /two/%66%6c%61%67%2e%74%78%74 HTTP/1.1
+-> part 2: next_time_im_using_nginx}
+DUCTF{thats_it_next_time_im_using_nginx}
